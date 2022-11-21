@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/faiz-portfolio/static/css/main.dca29988.css",
-    "main.js": "/faiz-portfolio/static/js/main.6fc9d27f.js",
+    "main.js": "/faiz-portfolio/static/js/main.265a1a08.js",
     "static/media/skep.png": "/faiz-portfolio/static/media/skep.abd8716b706ebcaed3f5.png",
     "static/media/mock-up.png": "/faiz-portfolio/static/media/mock-up.537c5799492129669b87.png",
     "static/media/mobile.png": "/faiz-portfolio/static/media/mobile.b5669a7992361f87feab.png",
     "index.html": "/faiz-portfolio/index.html",
     "static/media/arrow.svg": "/faiz-portfolio/static/media/arrow.e757048e94e0a7ffd0a5af949bc53968.svg",
     "main.dca29988.css.map": "/faiz-portfolio/static/css/main.dca29988.css.map",
-    "main.6fc9d27f.js.map": "/faiz-portfolio/static/js/main.6fc9d27f.js.map"
+    "main.265a1a08.js.map": "/faiz-portfolio/static/js/main.265a1a08.js.map"
   },
   "entrypoints": [
     "static/css/main.dca29988.css",
-    "static/js/main.6fc9d27f.js"
+    "static/js/main.265a1a08.js"
   ]
 }
